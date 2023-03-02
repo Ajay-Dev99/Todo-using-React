@@ -85,4 +85,7 @@ h2 {
   font-style: normal;
   color: grey;
 }
+ .done{
+  text-decoration: line-through;
 
+ }
